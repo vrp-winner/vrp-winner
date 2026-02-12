@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Vorapol 👋
+🎮 Aspiring Game Programmer | Unity Developer
 
-<!--
-**vrp-winner/vrp-winner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on gameplay systems, structured project architecture,
+and clean C# scripting in Unity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- C#
+- Unity (2D/3D, Physics, Coroutine, Object Pooling)
+- Git
+- Basic Unreal Engine
+
+---
+
+## 🎮 Featured Projects
+
+### 🧩 Room Keeper (2D Top Down Puzzle)
+- Dynamic level selection system
+- Persistent BGM system using PlayerPrefs
+- Clean prefab-based architecture
+
+🔗 Repo Link: https://github.com/MicroVoxel/Room-Keeper
+
+---
+
+### ⚔ IJEAB (2D Action Survival)
+- Physics-based player controller (Rigidbody2D)
+- HP & damage system
+- Dialogue and Win/Lose UI
+
+🔗 Repo Link: https://github.com/vrp-winner/gi262-final-project
+
+---
+
+## 📫 Contact
+Email: vorapol.ab19@gmail.com
