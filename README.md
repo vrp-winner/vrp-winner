@@ -107,5 +107,5 @@ A time-based mini-game where players complete randomized cleaning tasks under pr
 # 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vorapol.ab19@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/winner5868)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/399479109509578762) 
 [![Itch.io](https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=itchdotio&logoColor=white)](https://vrp-winner.itch.io/)
